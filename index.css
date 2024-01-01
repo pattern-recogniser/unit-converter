@@ -1,0 +1,66 @@
+body{
+    background: black;
+    font-family: 'Inter', sans-serif;
+    color: #FFFFFF;
+    height: 730px;
+    text-align: center;
+}
+h3{
+    color: #B295FF;
+    
+}
+.result-div{
+    height: 109px;
+    width: 500px;
+    background: #273549;
+    color: #FFFFFF;
+    margin: 10px;
+}
+
+#hero{
+    width: 550px;
+    height: 285px;
+    background: #6943FF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    font-weight: bolder;
+}
+#container{
+    display: block;
+    height: 730px;
+    width: 550px;
+    margin: 100px auto;
+    background: #1F2937;
+}
+#results-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#number_input{
+    width: 117px;
+    height: 83px;
+    border: #B295FF 2px solid;
+    background: #6943FF;
+    border-radius: 5px;
+    margin: 15px 0px;
+    color: #FFFFFF;
+    font-size: xx-large;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+}
+
+#convert-btn{
+    width: 117px;
+    height: 42px;
+    background: #FFFFFF;
+    color: #3D3D3D;
+    border: none;
+    border-radius: 5px;
+    font-size: medium;
+}
+
